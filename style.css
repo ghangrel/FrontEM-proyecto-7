@@ -131,22 +131,13 @@ main {
         background-position: 85% 0;
     }
 
-    .grey-card {
-
-    }
-
     .kira-card {
         grid-column: 4;
         grid-row: 1 / span 2;
     }
 
-
     .black-card {
      grid-column: span 2;
-    }
-
-    .testimonial:nth-of-type(4) {
-        grid-row: ;
     }
 
 }
